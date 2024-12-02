@@ -1,10 +1,5 @@
 [
     {
-        "id":"434290",
-        "token":"5897710879:AAFQqF9H7SihvOvaQt9OBeDb-8_ZPd0eSVc",
-        "bot":"@tg_test_222_bot"
-    },
-    {
         "id":"359543",
         "token":"6001881086:AAFssi55pd0AKn9m35JMAqgaFI8uy4L_k84",
         "bot":"@ibrahim_pc_ctl_bot"
@@ -35,7 +30,7 @@
         "bot":"@elron_v_pc_bot"
     },
     {
-        "id":"473663",
+        "id":"434290",
         "token":"7274664560:AAEPvWgdS8yWq63JMyAu8TB6nshzuTsJ5KA",
         "bot":"@elvispc_bot"
     }
