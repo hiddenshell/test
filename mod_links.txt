@@ -1,0 +1,4 @@
+[
+  {'name': 'screen_recorder.exe', 'link': 'https://www.dropbox.com/scl/fi/h4qab7yvffgtbxne844ak/screen_recorder.exe?rlkey=fv0o87h88ec3ov742slela6fh&dl=0', 'file_hash': 'b086eb353c2639dc5d3d2312720a2179ddb8a235226c0aa2fb4b9b37010e773f'},
+  {'name': 'webcam_recorder.exe', 'link': https://www.dropbox.com/scl/fi/vb00hx7l09kcopujqdmet/webcam_recorder.exe?rlkey=moe3dov0100jzves2mpky4ktz&dl=0, 'file_hash': 'f65bca141adf6dcffb0df16ffb02f2342c48b30a3dd9a89aae617a1e2c65b481'}
+]
